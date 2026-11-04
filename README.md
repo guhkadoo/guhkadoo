@@ -1,11 +1,15 @@
-# Gustavo Kadooka 
+# Gustavo Kadooka
 
 **Computer Science Graduate | Full Stack Developer**
 
-Computer Science graduate from UNESP with experience in web development, enterprise systems and API integration.
+Computer Science graduate from UNESP with experience in web development, enterprise systems, and API integration.
 
 - 🎓 B.Sc. in Computer Science — UNESP (GPA: 9.13/10)
-- 💻 Full Stack Development 
+- 💻 Full Stack Development
+
+### 🌐 Portfolio
+
+[**guhkadoo.github.io**](https://guhkadoo.github.io)
 
 ### Tech Stack
 
@@ -18,4 +22,5 @@ Computer Science graduate from UNESP with experience in web development, enterpr
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gustavo-kadooka)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavo@kadooka.io)
